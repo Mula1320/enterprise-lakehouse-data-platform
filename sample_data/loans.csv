@@ -1,0 +1,4 @@
+loan_id,customer_id,amount,status
+1,1001,250000,approved
+2,1002,180000,pending
+3,1003,300000,rejected
