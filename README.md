@@ -3,6 +3,7 @@ Overview
 ## Architecture Diagram
 
 ![Architecture](architecture.png)
+
 This project demonstrates an enterprise-grade Delta Lakehouse architecture implementing:
 
 Bronze, Silver, Gold Medallion layers
